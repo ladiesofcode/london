@@ -2,7 +2,7 @@
 
 Ladies who Code London is organised by [Ines](www.twitter.com/iteles), [Vasileia](twitter.com/supervasi) & [Vedika](https://twitter.com/vedikad).
 
-This space is a temporary home for past presentations, newsletter links and interesting bits and pieces.
+<img align="right" src="https://cloud.githubusercontent.com/assets/4185328/6340184/e5684e6c-bbb4-11e4-887f-912051d1e62d.png"/>This space is a temporary home for past presentations, newsletter links and interesting bits and pieces.
 
 Please spend **2 minutes letting us know what you'd like to see in upcoming meetups**! https://ladieswhocode.typeform.com/to/byuJvM
 
