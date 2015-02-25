@@ -1,6 +1,6 @@
 #Ladies Who Code LDN
 
-Ladies who Code London is organised by [Ines](www.twitter.com/iteles), [Vasileia](twitter.com/supervasi) & [Vedika](https://twitter.com/vedikad).
+Ladies who Code London is organised by [Ines](https://twitter.com/iteles), [Vasileia](https://twitter.com/supervasi) & [Vedika](https://twitter.com/vedikad).
 
 <img align="right" src="https://cloud.githubusercontent.com/assets/4185328/6340184/e5684e6c-bbb4-11e4-887f-912051d1e62d.png"/>This space is a temporary home for past presentations, newsletter links and interesting bits and pieces.
 
