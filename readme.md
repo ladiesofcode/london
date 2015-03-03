@@ -7,7 +7,9 @@ Ladies who Code London is organised by [Ines](https://twitter.com/iteles), [Vasi
 Please spend **2 minutes letting us know what you'd like to see in upcoming meetups**! https://ladieswhocode.typeform.com/to/byuJvM
 
 ##Previous meetup materials
++ [March 2015 - Public Speaking clinic (novices)](/meetups/2015-march)
 + [February 2015 - Everyone's new at something](/meetups/2015-february)
+
 
 ##Past Newsletters
 + [February 2015](eepurl.com/bephI5)
