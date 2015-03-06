@@ -3,7 +3,7 @@
 This month's meetup was a **Public Speaking workshop for Novices** with [Trisha Gee](https://twitter.com/trisha_gee) and lots of great input from [Mazz Mosley](https://twitter.com/mnowster).
 
 ###Speaker deck:
-+ To be added!
+Trisha's slides [can be found on slideshare here](http://www.slideshare.net/trishagee/speaker-clinic-novice-speakers).
 
 ###Notes:
 The below are some notes taken by [Ines](https://twitter.com/iteles) throughout and roughly organised into categories (given a lot of the great content from the night was a result of questions asked by everyone there). **Pull requests welcome** for any changes and additional points worth sharing with everyone!
@@ -20,7 +20,7 @@ The below are some notes taken by [Ines](https://twitter.com/iteles) throughout 
 + Recommended reading for putting together the actual presentation: [Presentation Patterns](http://www.amazon.co.uk/Presentation-Patterns-Techniques-Crafting-Presentations/dp/0321820800)
 + Find **3 big things** you want to impart and build your talk around those
 + **Repetition is good** - it'll be awkward for you, but it's positive!
-    
+
 
 ####Practicing a talk
 + **Everyone has different ways of practicing** - you could practice once or write out your whole script verbatim
