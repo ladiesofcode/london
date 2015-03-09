@@ -6,7 +6,8 @@ This month's meetup was a **Public Speaking workshop for Novices** with [Trisha 
 Trisha's slides [can be found on slideshare here](http://www.slideshare.net/trishagee/speaker-clinic-novice-speakers).
 
 ###Notes:
-The below are some notes taken by [Ines](https://twitter.com/iteles) throughout and roughly organised into categories (given a lot of the great content from the night was a result of questions asked by everyone there). **Pull requests welcome** for any changes and additional points worth sharing with everyone!
+LWC member [Sarah Knight has taken some excellent notes](https://twitter.com/scarerkite/status/573858676722810881) which you should definitely check out.    
+The below are rough notes taken by [Ines](https://twitter.com/iteles) throughout and roughly organised into categories (given a lot of the great content from the night was a result of questions asked by everyone there). **Pull requests welcome** for any changes and additional points worth sharing with everyone!
 
 ####Dealing with difficult questions
 + Set expectations upfront on whether you’ll have time to answer questions
