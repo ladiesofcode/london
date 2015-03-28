@@ -12,4 +12,5 @@ He and **[Natalia Baltazar](https://twitter.com/natalialkb)** from [Founders & C
 
 ##Speaker decks:
 + [Trisha Gee](https://twitter.com/trisha_gee) on [Working in Open Source](http://www.slideshare.net/trishagee/working-in-open-source)
++ [Ilona Filipi](https://twitter.com/) on [The Challenges & Opportunities of Working with Open Source](http://www.slideshare.net/IlonaFilipi/the-challenges-and-opportunities-of-working-with-open-source-and-how-to-contribute-back)
 + [Oli Evans](https://twitter.com/olizilla) & [Natalia Baltazar](https://twitter.com/nataliaLKB) on [Open it Up](http://olizilla.github.io/open-it-up)
