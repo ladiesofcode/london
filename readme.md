@@ -9,6 +9,7 @@ Please spend **2 minutes letting us know what you'd like to see in upcoming meet
 ##Previous meetup materials
 + [March 2015 - Public Speaking clinic (novices)](/meetups/2015-march)
 + [February 2015 - Everyone's new at something](/meetups/2015-february)
++ [December 2014 - Open Source](/meetups/2014-december)
 
 
 ##Past Newsletters
