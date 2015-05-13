@@ -9,6 +9,7 @@ This space is a temporary home for [past presentations](#previous-meetup-materia
 Please spend **2 minutes letting us know what you'd like to see in upcoming meetups**! https://ladieswhocode.typeform.com/to/byuJvM
 
 ##Previous meetup materials
++ [May 2015 - Javascript | ES6, WebGL & mini three.js workshop](/meetups/2015-may)
 + [April 2015 - Low-level graphics with math and *those* dirty memory pointers](/meetups/2015-april)
 + [March 2015 - Public Speaking clinic (novices)](/meetups/2015-march)
 + [February 2015 - Everyone's new at something](/meetups/2015-february)
@@ -16,6 +17,7 @@ Please spend **2 minutes letting us know what you'd like to see in upcoming meet
 
 
 ##Past Newsletters
++ [May 2015](http://eepurl.com/bjH4Sb)
 + [April 2015](http://eepurl.com/bgH0u1)
 + [March 2015](http://eepurl.com/beZvcH)
 + [February 2015](eepurl.com/bephI5)
