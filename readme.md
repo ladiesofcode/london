@@ -18,6 +18,7 @@ Please spend **2 minutes letting us know what you'd like to see in upcoming meet
 
 
 ##Past Newsletters
++ [July 2015](http://eepurl.com/btLKsX)
 + [June 2015](http://eepurl.com/bnJ3gL)
 + [May 2015](http://eepurl.com/bjH4Sb)
 + [April 2015](http://eepurl.com/bgH0u1)
