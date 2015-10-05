@@ -9,11 +9,14 @@ This space is a temporary home for [past presentations](#previous-meetup-materia
 Please spend **2 minutes letting us know what you'd like to see in upcoming meetups**! https://ladieswhocode.typeform.com/to/byuJvM
 
 ##Previous meetup materials
++ [August 2015 - Machine Learning | Coding your way out of a paper bag](/meetups/2015-august)
++ July 2015 - Get together and build things
 + [June 2015 - Test Driven Development (TDD) for Javascript](/meetups/2015-june)
 + [May 2015 - Javascript | ES6, WebGL & mini three.js workshop](/meetups/2015-may)
 + [April 2015 - Low-level graphics with math and *those* dirty memory pointers](/meetups/2015-april)
 + [March 2015 - Public Speaking clinic (novices)](/meetups/2015-march)
 + [February 2015 - Everyone's new at something](/meetups/2015-february)
++ January 2015 - Get together and build things
 + [December 2014 - Open Source](/meetups/2014-december)
 
 
