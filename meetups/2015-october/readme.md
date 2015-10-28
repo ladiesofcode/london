@@ -3,7 +3,7 @@
 This month we had a brilliant round of lightning talks from our very own members! The subjects were wide ranging and the questions from the audience were on point. We'll definitely be running these again.
 
 ## Speaker decks & materials
-+ [Alice D](https://twitter.com/alice_data) on _'R'_
++ [Alice Daish](https://twitter.com/alice_data) on [_'R Awesomeness'_](/20151006_LWC_Rawesomeness.pptx)
 + [Corinne Welsh](https://twitter.com/corinnewelsh) on _'Learning Python'_
 + [Katerina Nuresh](https://twitter.com/knerush) on [_'Wiki Art Project'_](http://www.slideshare.net/katenerush/wiki-art-project-lightning-talk-53636973)
 + Ioana Vasilescu on [_'Clean Code'_](http://www.slideshare.net/VasilescuIoana/clean-code-53643686)
