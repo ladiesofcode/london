@@ -3,7 +3,8 @@
 This month we had a brilliant round of lightning talks from our very own members! The subjects were wide ranging and the questions from the audience were on point. We'll definitely be running these again.
 
 ## Speaker decks & materials
-+ [Alice D](https://twitter.com/alice_data) on _'R'_
+
++ [Alice Daish](https://twitter.com/alice_data) on [_'R Awesomeness'_](/20151006_LWC_Rawesomeness.pptx)
 
 	Alice works as a data scientist for the British Museum and is a huge R enthusiast! While previously mainly used by scientists and statisticians, R has started to become more popuplar in companies now. With its over 7k different packages, Alice feels like R is usually able to solve her coding problems. She highlighted three packages which she finds particularly useful which are [knitr](http://yihui.name/knitr/) for dynamic report generation, [data.table](https://github.com/Rdatatable/data.table) and [Shiny](http://shiny.rstudio.com/) which creates a graphical user interface without requiring any front end development skills.
 
