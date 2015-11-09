@@ -1,6 +1,6 @@
 #Ladies Who Code LDN
 
-Ladies who Code London is organised by [Ines](https://twitter.com/iteles), [Vasileia](https://twitter.com/supervasi) & [Vedika](https://twitter.com/vedikad).
+Ladies who Code London is organised by [Ines](https://twitter.com/iteles), [Vasileia](https://twitter.com/supervasi), [Vedika](https://twitter.com/vedikad) & [Rabea](https://twitter.com/aebaR).
 
 <img align="right" src="https://cloud.githubusercontent.com/assets/4185328/6340184/e5684e6c-bbb4-11e4-887f-912051d1e62d.png"/>**To find out when and where our next meetup is, please take a look at [our page on meetup.com](http://www.meetup.com/Ladies-Who-Code-UK/)**.
 
@@ -9,6 +9,7 @@ This space is a temporary home for [past presentations](#previous-meetup-materia
 Please spend **2 minutes letting us know what you'd like to see in upcoming meetups**! https://ladieswhocode.typeform.com/to/byuJvM
 
 ##Previous meetup materials
++ [November 2015 - Speaker Series | Functional Programming](/meetups/2015-november)
 + [October 2015 - Lightning Talks | All Things Code](/meetups/2015-october)
 + [August 2015 - Machine Learning | Coding your way out of a paper bag](/meetups/2015-august)
 + July 2015 - Get together and build things
