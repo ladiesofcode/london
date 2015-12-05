@@ -9,6 +9,7 @@ This space is a temporary home for [past presentations](#previous-meetup-materia
 Please spend **2 minutes letting us know what you'd like to see in upcoming meetups**! https://ladieswhocode.typeform.com/to/byuJvM
 
 ##Previous meetup materials
++ [December 2015 - 24 Pull Requests event](/meetups/2015-december)
 + [November 2015 - Speaker Series | Functional Programming](/meetups/2015-november)
 + [October 2015 - Lightning Talks | All Things Code](/meetups/2015-october)
 + [August 2015 - Machine Learning | Coding your way out of a paper bag](/meetups/2015-august)
