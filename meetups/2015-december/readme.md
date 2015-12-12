@@ -7,7 +7,7 @@ It was a wonderful day with lots of fantastic ladies and gents showing up at Twi
 ## Speakers and materials [speaker decks TO BE ADDED in due course]
 We started off the day with 3 lightning talks:
 + [Ju Liu](https://twitter.com/arkh4m)
-+ [Charlotte Spencer](https://twitter.com/Charlotteis) on [YourFirstPR](http://yourfirstpr.github.io/) and how to write good issues as a project maintainer
++ [Charlotte Spencer](https://twitter.com/Charlotteis) on [YourFirstPR and how to write good issues](https://slidr.io/Charlotteis/codebar-your-first-pr#1) as a project maintainer
 + [Andrew Nesbitt](https://twitter.com/teabass) on [24 Pull Requests](http://www.24pullrequests.com)
 
 ## Notes on the day
