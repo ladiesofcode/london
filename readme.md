@@ -60,7 +60,8 @@ If you have any ideas on any of these or even if you want to **organise a LOC me
 
 ![More of these meetups please!](https://cloud.githubusercontent.com/assets/4185328/6547450/76582d82-c5d0-11e4-831f-367a526ad731.png)
 
-###What we're going to do about it in 2015
+###What we're going to do about it
+
 We're excited to get stuck into finding speakers for the topics you want to hear more about - we've already started, so watch this space.
 We'll be trying to **incorporate more practical coding** into the meetups straight away, but this demands not only some organisation time from the co-organisers but more importantly, _lots_ of prep time from our speakers. We'll try it out and see how we go.
 We'll also try out hand at a couple of nights which are **start-to-finish coding workshops** (though we're open to suggestions on whether these should be _in addition_ to our monthly meetups). These will take a while to organise we reckon so may be **later in the year**.
