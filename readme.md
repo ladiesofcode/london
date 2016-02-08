@@ -1,12 +1,19 @@
-#Ladies Who Code LDN
+<img align="right" width="250px" src="https://cloud.githubusercontent.com/assets/8995723/12703902/58324a9e-c846-11e5-9f8f-49326881efaf.gif"/>
 
-Ladies who Code London is organised by [Ines](https://twitter.com/iteles), [Vedika](https://twitter.com/vedikad) & [Rabea](https://twitter.com/aebaR).
+#Ladies of Code LDN
 
-<img align="right" src="https://cloud.githubusercontent.com/assets/4185328/6340184/e5684e6c-bbb4-11e4-887f-912051d1e62d.png"/>**To find out when and where our next meetup is, please take a look at [our page on meetup.com](http://www.meetup.com/Ladies-Who-Code-UK/)**.
 
-This space is a temporary home for [past presentations](#previous-meetup-materials), [newsletter links](#past-newsletters) and interesting bits and pieces.
+Ladies of Code London is organised by [Ines](https://twitter.com/iteles) & [Rabea](https://twitter.com/aebaR).
 
-Please spend **2 minutes letting us know what you'd like to see in upcoming meetups**! https://ladieswhocode.typeform.com/to/byuJvM
+**To find out when and where our next meetup is, please take a look at [our page on meetup.com](http://www.meetup.com/Ladies-of-Code-UK/)**.
+
+We used to be called Ladies Who Code but recently changed our name to Ladies of Code. So if you came here expecting to find LWC - you're not going mad! Here is the [the announcement](https://medium.com/@lalamaguire/ladies-who-code-is-no-more-f95a81a635a4#.wqjto3bon) about our name change.
+
+[Our new website](https://www.ladiesofcode.com/) is in the process of being developed but for now we're using this repo for [past presentations](#previous-meetup-materials), [newsletter links](#past-newsletters) and interesting bits and pieces.
+
+Please spend **2 minutes letting us know what you'd like to see in upcoming meetups**! 
+
+[Go to the survey](https://ladieswhocode.typeform.com/to/byuJvM)
 
 ##Previous meetup materials
 + [December 2015 - 24 Pull Requests event](/meetups/2015-december)
@@ -36,8 +43,8 @@ Please spend **2 minutes letting us know what you'd like to see in upcoming meet
 
 ##February 2015 Survey Results
 ###Summary
-In February 2015 we ran a short survey (seriously, the average completion time was just under 2 minutes) to understand more about what the ladies of LWC wanted from the meetups.**Thanks to all those who answered**, this is super helpful!
-If you have any ideas on any of these or even if you want to **organise a LWC meetup yourself** (we'll help with venue, food, etc of course), just [get in touch!](mailto:ladieswhocodeLDN@gmail.com)
+In February 2015 we ran a short survey (seriously, the average completion time was just under 2 minutes) to understand more about what the ladies of LOC wanted from the meetups.**Thanks to all those who answered**, this is super helpful!
+If you have any ideas on any of these or even if you want to **organise a LOC meetup yourself** (we'll help with venue, food, etc of course), just [get in touch!](mailto:ladieswhocodeLDN@gmail.com)
 
 * In terms of _**topics**_, by far and away the most requested topics were: **Javascript (both generally & frameworks), databases** and **Test Driven Development**
   * These were followed closely by **coding on the processor** and **HTML5/CSS3**
@@ -53,7 +60,8 @@ If you have any ideas on any of these or even if you want to **organise a LWC me
 
 ![More of these meetups please!](https://cloud.githubusercontent.com/assets/4185328/6547450/76582d82-c5d0-11e4-831f-367a526ad731.png)
 
-###What we're going to do about it in 2015
+###What we're going to do about it
+
 We're excited to get stuck into finding speakers for the topics you want to hear more about - we've already started, so watch this space.
 We'll be trying to **incorporate more practical coding** into the meetups straight away, but this demands not only some organisation time from the co-organisers but more importantly, _lots_ of prep time from our speakers. We'll try it out and see how we go.
 We'll also try out hand at a couple of nights which are **start-to-finish coding workshops** (though we're open to suggestions on whether these should be _in addition_ to our monthly meetups). These will take a while to organise we reckon so may be **later in the year**.
