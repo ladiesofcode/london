@@ -16,6 +16,7 @@ Please spend **2 minutes letting us know what you'd like to see in upcoming meet
 [Go to the survey](https://ladieswhocode.typeform.com/to/byuJvM)
 
 ## Previous meetup materials
++ April 2016 - Get together and build things
 + [December 2015 - 24 Pull Requests event](/meetups/2015-december)
 + [November 2015 - Speaker Series | Functional Programming](/meetups/2015-november)
 + [October 2015 - Lightning Talks | All Things Code](/meetups/2015-october)
