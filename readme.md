@@ -1,6 +1,6 @@
 <img align="right" width="250px" src="https://cloud.githubusercontent.com/assets/8995723/12703902/58324a9e-c846-11e5-9f8f-49326881efaf.gif"/>
 
-#Ladies of Code LDN
+# Ladies of Code LDN
 
 
 Ladies of Code London is organised by [Ines](https://twitter.com/iteles) & [Rabea](https://twitter.com/aebaR).
@@ -15,7 +15,7 @@ Please spend **2 minutes letting us know what you'd like to see in upcoming meet
 
 [Go to the survey](https://ladieswhocode.typeform.com/to/byuJvM)
 
-##Previous meetup materials
+## Previous meetup materials
 + [December 2015 - 24 Pull Requests event](/meetups/2015-december)
 + [November 2015 - Speaker Series | Functional Programming](/meetups/2015-november)
 + [October 2015 - Lightning Talks | All Things Code](/meetups/2015-october)
@@ -30,7 +30,8 @@ Please spend **2 minutes letting us know what you'd like to see in upcoming meet
 + [December 2014 - Open Source](/meetups/2014-december)
 
 
-##Past Newsletters
+## Past Newsletters
++ [April 2016](http://eepurl.com/bXeRd1)
 + [July 2015](http://eepurl.com/btLKsX)
 + [June 2015](http://eepurl.com/bnJ3gL)
 + [May 2015](http://eepurl.com/bjH4Sb)
@@ -41,8 +42,8 @@ Please spend **2 minutes letting us know what you'd like to see in upcoming meet
 + [November 2014](bit.ly/1wJgoSM)
 + [October 2014](http://us8.campaign-archive1.com/?u=939690219063ec4c1d09ae5a4&id=4eea554a13)
 
-##February 2015 Survey Results
-###Summary
+## February 2015 Survey Results
+### Summary
 In February 2015 we ran a short survey (seriously, the average completion time was just under 2 minutes) to understand more about what the ladies of LOC wanted from the meetups.**Thanks to all those who answered**, this is super helpful!
 If you have any ideas on any of these or even if you want to **organise a LOC meetup yourself** (we'll help with venue, food, etc of course), just [get in touch!](mailto:ladieswhocodeLDN@gmail.com)
 
@@ -60,7 +61,7 @@ If you have any ideas on any of these or even if you want to **organise a LOC me
 
 ![More of these meetups please!](https://cloud.githubusercontent.com/assets/4185328/6547450/76582d82-c5d0-11e4-831f-367a526ad731.png)
 
-###What we're going to do about it
+### What we're going to do about it
 
 We're excited to get stuck into finding speakers for the topics you want to hear more about - we've already started, so watch this space.
 We'll be trying to **incorporate more practical coding** into the meetups straight away, but this demands not only some organisation time from the co-organisers but more importantly, _lots_ of prep time from our speakers. We'll try it out and see how we go.
