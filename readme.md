@@ -11,9 +11,9 @@ We used to be called Ladies Who Code but recently changed our name to Ladies of 
 
 [Our new website](https://www.ladiesofcode.com/) is in the process of being developed but for now we're using this repo for [past presentations](#previous-meetup-materials), [newsletter links](#past-newsletters) and interesting bits and pieces.
 
-Please spend **2 minutes letting us know what you'd like to see in upcoming meetups**! 
+Please spend **2 minutes letting us know what you'd like to see in upcoming meetups** [using this survey](https://ladiesofcode.typeform.com/to/rvoSfJ)! 
 
-[Go to the survey](https://ladieswhocode.typeform.com/to/byuJvM)
+
 
 ## Previous meetup materials
 + April 2016 - Get together and build things
