@@ -1,0 +1,11 @@
+**Resources from the Software Craftswomanship talk**
+- [Franzi's Slides](slides.com/franziskasauerwein/deck/)
+- [Software Craftsmanship Manifesto](http://manifesto.softwarecraftsmanship.org/)
+- [The Software Craftsman (Sandro's Book)](http://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert-ebook/dp/B00QXAGIDO/ref=mt_kindle?_encoding=UTF8&me=)
+- [London Software Craftsmanship Community (LSCC)](http://www.meetup.com/london-software-craftsmanship/)
+- [International Software Craftsmanship Slack](http://slack.softwarecraftsmanship.org/)
+- [Codurance's Videos](http://codurance.com/videos/)
+- [Franzi's blogposts from her apprenticeship](http://codurance.com/blog/author/franziska-sauerwein/)
+- [The Coding Dojo Handbook by Emily Bache](https://leanpub.com/codingdojohandbook)
+- [Apprenticeship Patterns (Book)](http://chimera.labs.oreilly.com/books/1234000001813)
+- [Sandro's posts about mentorship](http://codurance.com/2011/10/04/mentoring-in-software-craftsmanship/)
