@@ -1,4 +1,4 @@
-**Resources from the Software Craftswomanship talk**
+**Resources from Franzi's talk about Software Craftsmanship**
 - [Franzi's Slides](slides.com/franziskasauerwein/deck/)
 - [Software Craftsmanship Manifesto](http://manifesto.softwarecraftsmanship.org/)
 - [The Software Craftsman (Sandro's Book)](http://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert-ebook/dp/B00QXAGIDO/ref=mt_kindle?_encoding=UTF8&me=)
