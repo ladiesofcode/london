@@ -3,7 +3,7 @@
 # Ladies of Code LDN
 
 
-Ladies of Code London is organised by [Ines](https://twitter.com/iteles) & [Rabea](https://twitter.com/aebaR).
+Ladies of Code London is organised by [Ines](https://twitter.com/iteles), [Rabea](https://twitter.com/aebaR) & [Natalia](https://twitter.com/NataliaLKB).
 
 **To find out when and where our next meetup is, please take a look at [our page on meetup.com](http://www.meetup.com/Ladies-of-Code-UK/)**.
 
