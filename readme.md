@@ -3,7 +3,7 @@
 # Ladies of Code LDN
 
 
-Ladies of Code London is organised by [Ines](https://twitter.com/iteles) & [Rabea](https://twitter.com/aebaR).
+Ladies of Code London is organised by [Ines](https://twitter.com/iteles), [Rabea](https://twitter.com/aebaR) & [Natalia](https://twitter.com/NataliaLKB).
 
 **To find out when and where our next meetup is, please take a look at [our page on meetup.com](http://www.meetup.com/Ladies-of-Code-UK/)**.
 
@@ -16,6 +16,7 @@ Please spend **2 minutes letting us know what you'd like to see in upcoming meet
 
 
 ## Previous meetup materials
++ [May 2016 - Talks about software crafts(wo)manship](/meetups/2016-may)
 + April 2016 - Get together and build things
 + [December 2015 - 24 Pull Requests event](/meetups/2015-december)
 + [November 2015 - Speaker Series | Functional Programming](/meetups/2015-november)
@@ -42,4 +43,3 @@ Please spend **2 minutes letting us know what you'd like to see in upcoming meet
 + [January 2015](http://us8.campaign-archive1.com/?u=939690219063ec4c1d09ae5a4&id=09785dd668&e)
 + [November 2014](bit.ly/1wJgoSM)
 + [October 2014](http://us8.campaign-archive1.com/?u=939690219063ec4c1d09ae5a4&id=4eea554a13)
-
