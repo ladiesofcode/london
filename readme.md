@@ -16,6 +16,8 @@ Please spend **2 minutes letting us know what you'd like to see in upcoming meet
 
 
 ## Previous meetup materials
++ [July 2016 - Test Driven Development (talk, demo & workshop)](/meetups/2016-july)
++ June 2016 - Lightning talks | All things Code
 + [May 2016 - Talks about software crafts(wo)manship](/meetups/2016-may)
 + April 2016 - Get together and build things
 + [December 2015 - 24 Pull Requests event](/meetups/2015-december)
