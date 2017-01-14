@@ -16,25 +16,25 @@ Please spend **2 minutes letting us know what you'd like to see in upcoming meet
 
 
 ## Previous meetups
-+ [January 2017 - Get together and build things](/get-together-and-build-things)
++ [January 2017 - Get together and build things](/meetups/get-together-and-build-things.md)
 + [December 2016 - 24 Pull Requests event](/meetups/2016-december)
-+ November 2016 - From Manual Deployments to Continuous Delivery
-+ October 2016 - Learnings from Hackathons
++ [November 2016 - From Manual Deployments to Continuous Delivery](/meetups/2016-november)
++ [October 2016 - Learnings from Hackathons](/meetups/2016-october)
 + [July 2016 - Test Driven Development (talk, demo & workshop)](/meetups/2016-july)
 + June 2016 - Lightning talks | All things Code
 + [May 2016 - Talks about software crafts(wo)manship](/meetups/2016-may)
-+ [April 2016 - Get together and build things](/get-together-and-build-things)
++ [April 2016 - Get together and build things](/meetups/get-together-and-build-things.md)
 + [December 2015 - 24 Pull Requests event](/meetups/2015-december)
 + [November 2015 - Speaker Series | Functional Programming](/meetups/2015-november)
 + [October 2015 - Lightning Talks | All Things Code](/meetups/2015-october)
 + [August 2015 - Machine Learning | Coding your way out of a paper bag](/meetups/2015-august)
-+ [July 2015 - Get together and build things](/get-together-and-build-things)
++ [July 2015 - Get together and build things](/meetups/get-together-and-build-things.md)
 + [June 2015 - Test Driven Development (TDD) for Javascript](/meetups/2015-june)
 + [May 2015 - Javascript | ES6, WebGL & mini three.js workshop](/meetups/2015-may)
 + [April 2015 - Low-level graphics with math and *those* dirty memory pointers](/meetups/2015-april)
 + [March 2015 - Public Speaking clinic (novices)](/meetups/2015-march)
 + [February 2015 - Everyone's new at something](/meetups/2015-february)
-+ [January 2015 - Get together and build things](/get-together-and-build-things)
++ [January 2015 - Get together and build things](/meetups/get-together-and-build-things.md)
 + [December 2014 - Open Source](/meetups/2014-december)
 
 
