@@ -20,6 +20,6 @@ If you measure success by prizes and gifts, then in September she received an am
 
 ###How to Accidentally Start a Business in 54 Hours - presented by [_Claire Mitchell_](https://twitter.com/nofootnotes) and [_Michelle Garrett_](https://twitter.com/msmichellegar)
 
-Claire and Michelle won [Startup Weekend](https://startupweekend.org/) last year, launching them on an exciting and tumultuous journey that took them to Poland and back. They’ll be sharing their experiences turning a weekend project into a real business, and their tips for hackathon success.
+Claire and Michelle won [Startup Weekend](https://startupweekend.org/) last year, launching them on an exciting and tumultuous journey that took them to Poland and back. They shared their experiences turning a weekend project into a real business, and their tips for hackathon success.
 
 _Claire is a software developer at 27partners and co-founder and developer at [Mode For Me](https://www.modeforme.com/). Michelle is a web developer at WonderLuk._
