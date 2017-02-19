@@ -16,6 +16,7 @@ Please spend **2 minutes letting us know what you'd like to see in upcoming meet
 
 
 ## Previous meetups
++ [February 2017 - All about the Go Programming Language](/meetups/2017-february)
 + [January 2017 - Get together and build things](/meetups/get-together-and-build-things.md)
 + [December 2016 - 24 Pull Requests event](/meetups/2016-december)
 + [November 2016 - From Manual Deployments to Continuous Delivery](/meetups/2016-november)
