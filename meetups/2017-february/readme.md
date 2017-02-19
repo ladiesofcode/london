@@ -20,5 +20,5 @@ Sue gave us some background information on what Go is, how it was invented and w
 
 [**Take the tour of Go to familiarize yourself with the language**](https://tour.golang.org/welcome/1)
 
-_Sue is a huge Go enthusiast by night, passionate Perl developer by day and Ladies of Code regular._
+_Sue is a huge Go enthusiast by night, passionate Perl developer by day and a Ladies of Code regular._
 
