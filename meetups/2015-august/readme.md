@@ -1,4 +1,4 @@
-#Ladies Who Code LDN | [August 2015](http://www.meetup.com/Ladies-Who-Code-UK/events/224306287/)
+# Ladies Who Code LDN | [August 2015](http://www.meetup.com/Ladies-Who-Code-UK/events/224306287/)
 
 In this month's beginner friendly meetup, [Frances Buontempo](https://twitter.com/fbuontempo) animated particles in a 2 dimensional paper bag. She showed us the various machine learning algorithms she uses to ensure the particle can escape the bag.  
 

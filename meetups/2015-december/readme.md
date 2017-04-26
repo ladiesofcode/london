@@ -1,4 +1,4 @@
-#Ladies Who Code LDN | [December 2015](http://www.meetup.com/Ladies-Who-Code-UK/events/226673924/)
+# Ladies Who Code LDN | [December 2015](http://www.meetup.com/Ladies-Who-Code-UK/events/226673924/)
 
 In honor of the festive season, Ladies Who Code is partnered with [Codebar](http://www.codebar.io), [24 Pull Requests](http://www.24pullrequests.com) and [YourFirstPR](http://yourfirstpr.github.io/) for a special day of contributing to open source projects. 
 

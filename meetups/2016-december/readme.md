@@ -1,4 +1,4 @@
-#Ladies of Code LDN | [December 2016 - 24 Pull Requests event](https://www.meetup.com/Ladies-of-Code-UK/events/235269913/)
+# Ladies of Code LDN | [December 2016 - 24 Pull Requests event](https://www.meetup.com/Ladies-of-Code-UK/events/235269913/)
 
 We are passionate about open source and this event format allows us to spend some time together to make open source contributions.
 

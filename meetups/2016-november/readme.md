@@ -1,4 +1,4 @@
-#Ladies of Code LDN | [November 2016](https://www.meetup.com/Ladies-of-Code-UK/events/235075701)
+# Ladies of Code LDN | [November 2016](https://www.meetup.com/Ladies-of-Code-UK/events/235075701)
 
 This meetup was all about continuous integration and delivery. Our speaker was [Claudia Nobrega](https://www.linkedin.com/in/cl%C3%A1udia-n%C3%B3brega-7a90a383), Deployment Lead at Ve Interactive.
 
