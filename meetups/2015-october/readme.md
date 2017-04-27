@@ -1,4 +1,4 @@
-#Ladies Who Code LDN | [October 2015 - Lightning Talks, All Things Code](http://www.meetup.com/Ladies-Who-Code-UK/events/224931063/)
+# Ladies Who Code LDN | [October 2015 - Lightning Talks, All Things Code](http://www.meetup.com/Ladies-Who-Code-UK/events/224931063/)
 
 This month we had a brilliant round of lightning talks from our very own members! The subjects were wide ranging and the questions from the audience were on point. We'll definitely be running these again.
 
