@@ -3,7 +3,7 @@
 # Ladies of Code London
 
 
-Ladies of Code London is organised by [Ines T.](https://twitter.com/iteles), [Rabea](https://twitter.com/aebaR), [Natalia](https://twitter.com/NataliaLKB), [Amy](https://twitter.com/AycYang), [Ines P.](https://twitter.com/binusida) & [Claudia](https://twitter.com/BedinClaudia1).
+Ladies of Code London is organised by [Ines T.](https://twitter.com/iteles), [Rabea](https://twitter.com/aebaR), [Amy](https://twitter.com/AycYang), [Ines P.](https://twitter.com/binusida), Anna, Diana & Elena.
 
 **To find out when and where our next meetup is, please take a look at [our page on meetup.com](http://www.meetup.com/Ladies-of-Code-UK/)**.
 
@@ -16,6 +16,12 @@ Please spend **2 minutes letting us know what you'd like to see in upcoming meet
 
 
 ## Previous meetups
++ [October 2017 - Design for developers and styled components](/meetups/2017-october)
++ [September 2017 - Find your inner tech talk](/meetups/2017-september)
++ August 2017 - Continuous integration and Github best practises
++ [July 2017 - Get together and build things](/meetups/get-together-and-build-things.md)
++ June 2017 - A brief introduction to Autonomous Robots
++ May 2017 - Lightning talks | All things code
 + [April 2017 - Elixir - a functional language that's lightning fast](/meetups/2017-april)
 + [February 2017 - All about the Go Programming Language](/meetups/2017-february)
 + [January 2017 - Get together and build things](/meetups/get-together-and-build-things.md)
