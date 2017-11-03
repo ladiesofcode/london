@@ -2,17 +2,15 @@
 
 # Ladies of Code London
 
-
 Ladies of Code London is organised by [Ines T.](https://twitter.com/iteles), [Rabea](https://twitter.com/aebaR), [Amy](https://twitter.com/AycYang), [Ines P.](https://twitter.com/binusida), [Anna](https://twitter.com/shilaghae), [Diana](https://twitter.com/diavadai) & [Elena](https://twitter.com/elena18944975).
 
 **To find out when and where our next meetup is, please take a look at [our page on meetup.com](http://www.meetup.com/Ladies-of-Code-UK/)**.
 
-We used to be called Ladies Who Code but changed our name to Ladies of Code. So if you came here expecting to find LWC - you're not going mad! Here is the [the announcement](https://medium.com/@lalamaguire/ladies-who-code-is-no-more-f95a81a635a4#.wqjto3bon) about our name change.
+We used to be called Ladies Who Code but changed our name to Ladies of Code. So if you came here expecting to find LWC - you're not going mad! Here is [the announcement](https://medium.com/@lalamaguire/ladies-who-code-is-no-more-f95a81a635a4#.wqjto3bon) about our name change.
 
 [Our new website](https://www.ladiesofcode.com/) is in the process of being developed but for now we're using this repo for [past presentations](#previous-meetup-materials), [newsletter links](#past-newsletters) and interesting bits and pieces.
 
 Please spend **2 minutes letting us know what you'd like to see in upcoming meetups** [using this survey](https://ladiesofcode.typeform.com/to/rvoSfJ)!
-
 
 
 ## Previous meetups
