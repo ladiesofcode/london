@@ -14,6 +14,7 @@ Please spend **2 minutes letting us know what you'd like to see in upcoming meet
 
 
 ## Previous meetups
++ January 2018 - Get your code on and build things (all levels)!
 + [October 2017 - Design for developers and styled components](/meetups/2017-october)
 + [September 2017 - Find your inner tech talk](/meetups/2017-september)
 + August 2017 - Continuous integration and Github best practises
