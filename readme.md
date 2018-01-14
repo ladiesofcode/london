@@ -14,6 +14,7 @@ Please spend **2 minutes letting us know what you'd like to see in upcoming meet
 
 
 ## Previous meetups
++ December 2017 - 24 Pull Requests | Contribute to open-source with us!
 + [October 2017 - Design for developers and styled components](/meetups/2017-october)
 + [September 2017 - Find your inner tech talk](/meetups/2017-september)
 + August 2017 - Continuous integration and Github best practises
