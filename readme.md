@@ -2,7 +2,7 @@
 
 # Ladies of Code London
 
-Ladies of Code London is organised by [Ines T.](https://twitter.com/iteles), [Amy](https://twitter.com/AycYang), [Ines P.](https://twitter.com/binusida), [Anna](https://twitter.com/shilaghae), [Diana](https://twitter.com/diavadai) & [Elena](https://twitter.com/elena18944975).
+Ladies of Code London is organised by [Ines T.](https://twitter.com/iteles), [Amy](https://twitter.com/AycYang), [Ines P.](https://twitter.com/binusida), [Anna](https://twitter.com/shilaghae), [Diana](https://twitter.com/diavadai), [Suze](https://twitter.com/SuzeShardlow) & [Charlotte](https://twitter.com/CharlotteBRF).
 
 **To find out when and where our next meetup is, please take a look at [our page on meetup.com](http://www.meetup.com/Ladies-of-Code-UK/)**.
 
