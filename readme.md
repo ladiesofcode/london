@@ -14,6 +14,8 @@ Please spend **2 minutes letting us know what you'd like to see in upcoming meet
 
 
 ## Previous meetups
++ November 2017 - Global Day of Coderetreat (joint event with Queer Code London)
++ November 2017 - Improve your coding skills through katas!
 + [October 2017 - Design for developers and styled components](/meetups/2017-october)
 + [September 2017 - Find your inner tech talk](/meetups/2017-september)
 + August 2017 - Continuous integration and Github best practises
