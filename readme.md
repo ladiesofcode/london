@@ -2,7 +2,7 @@
 
 # Ladies of Code London
 
-Ladies of Code London is organised by [Anna](https://twitter.com/shilaghae), [Suze](https://twitter.com/SuzeShardlow) and [Sarah](https://twitter.com/SarahNUsher).
+Ladies of Code London is organised by [Anna](https://twitter.com/shilaghae), [Suze](https://suze.dev) and [Sarah](https://twitter.com/SarahNUsher).
 
 **To find out when and where our next meetup is, please take a look at [our page on meetup.com](http://www.meetup.com/Ladies-of-Code-UK/)**.
 
